@@ -12,7 +12,12 @@ En Argentina, un grupo de periodistas de La Nación se puso en la tarea de tomar
 
 Mientras navegaba en internet me encontré con ***Coronavirus. El avance del virus en tiempo real***, una publicación original del 27 de marzo de 2020 y que durante los últimos dos años se ha mantenido en actualización constante.
 
-En el análisis del proyecto de *La Nación* me llamó la atención que combinan tablas con mapas interactivos, gráficos e infografías como mecanismo para la visualización de los datos sobre el coronavirus en Argentina y el resto del mundo. Para la presentación de cifras sobre infectados, recuperados, casos activos y fallecidos utilizan diferentes colores que son agradables a la vista.
+En el análisis del proyecto de *La Nación* me llamó la atención que combinan tablas con mapas interactivos, gráficos e infografías como mecanismo para la visualización de los datos sobre el coronavirus en Argentina y el resto del mundo. Utilizan colores diversos para la presentación de cifras sobre:
+
++ Infectados,
++ Pacientes recuperados, 
++ Casos activos y,
++ Cantidad de fallecidos
 
 Sobre los números de __Covid-19__ en Argentina, utilizan un mapa interactivo donde se puede ver la cantidad de infectados y fallecidos por provincia, cuyas cifras también son presentadas por cada 100,000 habitantes, con su respectiva tabla de resultados, actualizada semanalmente.
 
