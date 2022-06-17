@@ -1,4 +1,4 @@
-# Actividad Dirigida Nº 1
+# Repositorio del modulo de Periodismo de Datos II: Herramientas digitales para la visualizacion y presentacion de datos
 
 La primera actividad dirigida del curso ***Periodismo de Datos II: Herramientas digitales para la visualización y presentación de datos*** consiste en realizar un análisis crítico de un trabajo de visualización de datos.
 
@@ -28,3 +28,7 @@ Pondero el uso de gráficos interactivos para mostrar los datos sobre el comport
 Como valor agregado a las herramientas utilizadas para la presentación de datos sobre el coronavirus en el mundo, el equipo periodístico de _La Nación_ comparte información básica sobre las características del virus, formas de contagio, síntomas y medidas de prevención, acompañada de infografías interesantes, ayudan a entender mejor la evolución de la enfermedad.
 
 En este trabajo para la presentación de datos, se destaca que los datos a nivel mundial se actualizan más rápidamente que los provenientes del Ministerio de Salud y otras entidades dentro de Argentina. Por otro lado, considero positivo que se cuente con entidades como _OMS_ y *Johns Hopkins Whiting School of Engineering* como fuentes complementarias para la obtención de datos.
+
+### Actividades Dirigidas
+[Actividad dirigida 1](ad1.md)
+[Actividad dirigida 2](ad2.md)
