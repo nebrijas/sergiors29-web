@@ -30,5 +30,5 @@ Como valor agregado a las herramientas utilizadas para la presentación de datos
 En este trabajo para la presentación de datos, se destaca que los datos a nivel mundial se actualizan más rápidamente que los provenientes del Ministerio de Salud y otras entidades dentro de Argentina. Por otro lado, considero positivo que se cuente con entidades como _OMS_ y *Johns Hopkins Whiting School of Engineering* como fuentes complementarias para la obtención de datos.
 
 ### Actividades Dirigidas
-[Actividad dirigida 1](ad1.md)
-[Actividad dirigida 2](ad2.md)
++ [Actividad dirigida 1](ad1.md)
++ [Actividad dirigida 2](ad2.md)
