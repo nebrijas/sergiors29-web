@@ -1,4 +1,4 @@
-# Repositorio del modulo de Periodismo de Datos II: Herramientas digitales para la visualizacion y presentacion de datos
+# Repositorio del módulo de Periodismo de Datos II: Herramientas digitales para la visualización y presentación de datos
 
 La primera actividad dirigida del curso ***Periodismo de Datos II: Herramientas digitales para la visualización y presentación de datos*** consiste en realizar un análisis crítico de un trabajo de visualización de datos.
 
