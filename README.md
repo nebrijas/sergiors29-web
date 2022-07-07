@@ -16,10 +16,10 @@ Mientras navegaba en internet me encontré con ***Coronavirus. El avance del vir
 
 En el análisis del proyecto de *La Nación* me llamó la atención que combinan tablas con mapas interactivos, gráficos e infografías como mecanismo para la visualización de los datos sobre el coronavirus en Argentina y el resto del mundo. Utilizan colores diversos para la presentación de cifras sobre:
 
-+ Infectados
-+ Pacientes recuperados 
-+ Casos activos
-+ Cantidad de fallecidos
+1. Infectados
+2. Pacientes recuperados 
+3. Casos activos
+4. Cantidad de fallecidos
 
 Sobre los números de __Covid-19__ en Argentina, utilizan un mapa interactivo donde se puede ver la cantidad de infectados y fallecidos por provincia, cuyas cifras también son presentadas por cada 100,000 habitantes, con su respectiva tabla de resultados, actualizada semanalmente.
 
