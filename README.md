@@ -6,7 +6,7 @@ La primera actividad dirigida del curso ***Periodismo de Datos II: Herramientas 
 
 El equipo periodístico del diario argentino _La Nación_ desarrolló un proyecto de visualización de datos sobre el avance del virus del __Covid-19__ y cuyos resultados pueden observarse en [www.lanacion.com.ar](https://www.lanacion.com.ar/el-mundo/coronavirus-asi-es-avance-del-virus-se-nid2328201/) 
 
-![Imagen ilustrativa](https://static.wixstatic.com/media/44741e_77fbfe553ddc4e2c9de80fe547c05f65~mv2.jpg/v1/fit/w_958%2Ch_596%2Cal_c%2Cq_80/file.jpg)
+![El Covid-19 surgió en 2019](https://static.wixstatic.com/media/44741e_77fbfe553ddc4e2c9de80fe547c05f65~mv2.jpg/v1/fit/w_958%2Ch_596%2Cal_c%2Cq_80/file.jpg)
 
 En tiempos de coronavirus las principales portadas de los medios de comunicación impresos y digitales se han llenado de números que se actualizan diariamente. También hemos visto estas cifras en los noticieros de televisión y las hemos escuchado por radio. Por dos años, el mundo ha girado alrededor de la evolución de los datos del **Covid-19**.
 
