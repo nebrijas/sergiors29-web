@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 # Actividad Dirigida Nº 1
 	
 =======
 # Repositorio del módulo de Periodismo de Datos II: Herramientas digitales para la visualización y presentación de datos
 
->>>>>>> d875a7da52232c58ed454237837d2374b0df7451
+
 La primera actividad dirigida del curso ***Periodismo de Datos II: Herramientas digitales para la visualización y presentación de datos*** consiste en realizar un análisis crítico de un trabajo de visualización de datos.
 
 ## Comentario crítico sobre visualización de datos en La Nación, de Argentina
