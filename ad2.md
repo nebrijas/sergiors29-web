@@ -13,5 +13,19 @@ Después de realizar estos pasos, a los pocos segundos se generó nuestra págin
 
 ## Segunda parte.
 
-La siguiente parte de la asignación se realizó con el uso de la herramienta `git bash`. 
+La siguiente parte de la asignación se realizó con el uso de la herramienta __git bash.__ Desde ahí, la tarea principal era clonar el repositorio remote y realizar una copia en local, configurar git, crear un archivo _ad1.md_ a partir del _README.md_ y editarlos para que el contenido correspondiera con su nombre.
+
+Finalmente actualicé el repositorio remoto desde el local y se comprobó que los cambios se hubiesen producido en remoto.
+
+
+## Tercera parte.
+
+Previamente, se había creado el archivo _ad2.md_, desde la web. Con el uso de la terminal de __git bash__ se hicieron las correspondientes actualizaciones sobre los pasos realizados en cuanto al desarrollo de esta actividad, a manera de ejercicio de programación literaria, que es lo que se refleja en este documento.
+
+Para la escritura se tomaron en cuenta los mecanismos de redacción para __Markdown__ para plasmar los componentes de este ejercicio. Para ello usé el comando `nano` para llamar al archive _ad2.md_, desde donde pude realizar las respectivas modificaciones, luego `Control`+`X` para salir, cuando me pedía salvar las modificaciones le di a la tecla `Y` y `enter` para confirmar el nombre del archivo (ad2.md).
+
+Con `git status` me informaba que se debía actualizar la modificación del archivo _ad2.md_, lo cual hice con el uso de `git add` _ad2.md_ (nombre del archivo), posteriormente utilicé `git commit -m` para añadir comentarios sobre las últimas actualizaciones al escrito. Volví a utilizar `git status` para verificar que todo estuviese en orden antes de actualizar el repositorio con `git push` y comprobar que los cambios apareciesen en remoto.
+
+Fue el mismo procedimiento realizado cada vez que ingresaba para actualizar el texto del ejercicio.
+ 
  
