@@ -21,7 +21,7 @@ En el análisis del proyecto de *La Nación* me llamó la atención que combinan
 3. Casos activos
 4. Cantidad de fallecidos
 
-Sobre los números de __Covid-19__ en Argentina, utilizan un mapa interactivo donde se puede ver la cantidad de infectados y fallecidos por provincia, cuyas cifras también son presentadas por cada 100,000 habitantes, con su respectiva tabla de resultados, actualizada semanalmente.
+Sobre los números de __Covid-19__ en Argentina, utilizan un mapa interactivo donde se puede ver la cantidad de infectados y fallecidos por provincia, cuyas cifras también son presentadas por cada 100,000 habitantes, con su respectiva tabla de resultados, actualizada semanalmente
 
 Pondero el uso de gráficos interactivos para mostrar los datos sobre el comportamiento de casos nuevos y muertes y el especial énfasis que realizan en la evolución de infecciones nuevas del coronavirus en la capital y sus comunidades, aunque personalmente preferiría otra combinación de colores para el mapa interactivo en lugar de las diversas tonalidades de chocolates y cafés. Más allá de eso, considero que el estilo desarrollado por La Nación invita a los usuarios a buscar más información, no solo de Argentina sino de otros países del mundo que también se ven reflejados en el trabajo de visualización.
 
