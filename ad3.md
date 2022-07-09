@@ -1,8 +1,8 @@
-# AD3
+# Actividad Dirigida 3
 
-Nos encontramos en la actividad dirigida 3, la cual consiste en realizar un ejercicio de programación literaria aprovechando el código con Python utilizado en clase de Programación para realizar _web scraping_.
+La tercera actividad dirigida del curso de Periodismo de Datos II consistía en realizar un ejercicio de programación literaria aprovechando el código con Python utilizado en clase de Programación para realizar _web scraping_.
 
-A continuación coloco el código fuente:
+Este fue el código fuente utilizado:
 
 ### Código Fuente
 
