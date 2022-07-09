@@ -36,3 +36,10 @@ Aprendimos sobre el uso de la herramienta Git Bash, con la cual realizamos la cl
 
 A partir de ese momento, `git bash` debía ser nuestro aliado en el desarrollo de las actividades y sus respectivas modificaciones desde el local y comprobando que se reflejaran en remoto.
 
+
+#### Tercera parte,
+Ya para esta parte del curso nos adentrábamos en un mundo prácticamente desconocido para los periodistas panameños. Me refiero al uso de los cuadernos de Jupyter, desde donde también se podían desarrollar las actividades, cumpliendo con los parámetros de escritura de Markdown e introduciendo códigos ejecutables en Python, los cuales servirían para un ejercicio de programacion literaria, un tipo de tareas de las que nunca había realizado.
+
+Mientras aorendíamos sobre el uso de la herramienta Jupyter, también se nos enseñaba sobre el uso de comandos para realizar nuestras principales tareas desde la terminal de "Git Bash", como el uso de los comandos `pwd` para imprimir el directorio de trabajo en donde nos encontramos, `cd` para cambiar de carpeta, `ls` para ver los archivos listados en una carpeta, `rm` para borrar un archivo, `git clone` para copiar un repositorio desde un servidor remoto, `git add` para agregar archivos nuevos o modificados, `git commit` para agregar comentarios", `git status` para mostrar archivos que han sido cambiados y `git push` para enviar confirmaciones locales a la rama principal del repositorio remoto, entre otros.
+
+ 
