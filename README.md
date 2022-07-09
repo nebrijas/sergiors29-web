@@ -1,7 +1,6 @@
 
 # Actividad Dirigida Nº 1
 	
-=======
 # Repositorio del módulo de Periodismo de Datos II: Herramientas digitales para la visualización y presentación de datos
 
 
