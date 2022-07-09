@@ -28,4 +28,11 @@ Creamos un repositorio en [github.com](https://github.com/nebrijas/), ahí cream
 
 
 #### Segunda parte,
+En la segunda parte del curso, nos enseñaron cómo convertir un repositorio en una web servida desde Github, de tal forma que la plataforma funcionara como servidor de `git` y de sitio web.
+
+Se nos pidió, como parte de las actividades, la configuración del repositorio en la opción “[Pages](https://github.com/nebrijas/sergiors29-web/settings/pages)”, luego elegimos “main” en `branch` “root” como carpeta. Una vez guardados los cambios ya se podía acceder a un archivo `index.html` cuyo contenido es el archivo que sirve para el desarrollo de la presente actividad final de curso. 
+
+Aprendimos sobre el uso de la herramienta Git Bash, con la cual realizamos la clonación del repositorio remoto, se configuró .git, se hicieron cambios en los archivos y se creó uno nuevo a partir del archivo README.md, pero desde la terminal, sin utilizar la web de `github`.
+
+A partir de ese momento, `git bash` debía ser nuestro aliado en el desarrollo de las actividades y sus respectivas modificaciones desde el local y comprobando que se reflejaran en remoto.
 
