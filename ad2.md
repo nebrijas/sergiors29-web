@@ -25,7 +25,7 @@ La siguiente parte de la asignación se realizó con el uso de la herramienta __
 6. Después de estos pasos, hubo que acceder desde el navegador a [https://github.com/settings/tokens](https://github.com/settings/tokens) para generar un token, al cual se denominó __pd2__ configurado para expirar en 60 días. Una vez generado el nuevo token, se copió y se colocó entre comillas (" "), precedido por el comando `echo`, para crear el nuevo archivo.
 
 
-Finalmente actualicé el repositorio remoto desde el local y se comprobó que los cambios se hubiesen producido en remoto.
+Finalmente se actualizó el repositorio remoto desde el local y se comprobó que los cambios se hubiesen producido en remoto.
 
 
 ## Tercera parte.
