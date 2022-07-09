@@ -17,7 +17,7 @@ Después de realizar estos pasos, a los pocos segundos se generó nuestra págin
 La siguiente parte de la asignación se realizó con el uso de la herramienta __git bash.__ Desde ahí, la tarea principal era clonar el repositorio remote y realizar una copia en local, configurar git, crear un archivo _ad1.md_ a partir del _README.md_ y editarlos para que el contenido correspondiera con su nombre.
 
 1. Con el uso de __git bash__ coloqué `pwd` para imprimir el directorio de trabajo en el que me encontraba.
-2. Posteriormente utilicé `git clone` + la dirección del repositorio [https://github.com/nebrijas/sergiors29-web](https://github.com/nebrijas/sergiors29-web) para modificarlo y clonar la carpeta.
+2. Posteriormente utilicé `git clone`, seguido de la dirección del repositorio [https://github.com/nebrijas/sergiors29-web](https://github.com/nebrijas/sergiors29-web) para modificarlo y clonar la carpeta.
 3. El siguiente paso fue escribir _sergiors29-web/_ y _enter_ para cambiarlo por el del fichero o carpeta.
 4. En la siguiente fase se usó el comando `ls` para visualizar o enumerar los archivos dentro del directorio de trabajo.
 5. Como parte del proceso se introdujo `git config` + _user.name_ + _usuario_ de __github__ y _enter_, como parte de las tareas de configuración del __git.__ Lo mismo se hizo para con _user.email_, añadiendo la cuenta de correo electrónico usada para la creación de cuenta en __Github__ y _enter_.
