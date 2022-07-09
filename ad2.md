@@ -21,7 +21,7 @@ La siguiente parte de la asignación se realizó con el uso de la herramienta __
 3. El siguiente paso fue escribir _sergiors29-web/_ y _enter_ para cambiarlo por el del fichero o carpeta.
 4. En la siguiente fase se usó el comando `ls` para visualizar o enumerar los archivos dentro del directorio de trabajo.
 5. Como parte del proceso se introdujo `git config` + _user.name_ + _usuario_ de __github__ y _enter_, como parte de las tareas de configuración del __git.__ Lo mismo se hizo para con _user.email_, añadiendo la cuenta de correo electrónico usada para la creación de cuenta en __Github__ y _enter_.
-6. Después de estos pasos, hubo que acceder desde el navegador a [https://github.com/settings/tokens](https://github.com/settings/tokens) para generar un token, al cual se denominó __pd2__ configurado para expirar en 60 días. Una vez generado el nuevo token, se copió y se colocó entre comillas (" "), precedido por el comando `echo`, para crear el nuevo archivo.
+6. Después de estos pasos, hubo que acceder desde el navegador a [https://github.com/settings/tokens](https://github.com/settings/tokens) para generar un token, al cual se denominó __perdatos2__ configurado para expirar en 60 días. Una vez generado el nuevo token, se copió y se colocó entre comillas (" "), precedido por el comando `echo`, para crear el nuevo archivo.
 7. En la parte final de la actividad, se usó `nano` para ubicar archivo a modificar, se utilizó la tecla `control` + `X` para guardar los cambios, se confirmó el nombre del archivo y _enter_. Se añadió comentario sobre lo realizado con `git commit -m` y luego `git push` para actualizar y comprobar que los cambios se reflejen en el repositorio.
 
 
