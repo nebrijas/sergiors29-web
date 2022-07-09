@@ -3,8 +3,7 @@
 La segunda actividad dirigida del módulo de Periodismo de Datos II constaba de tres etapas. En la primera se debía convertir el repositorio en una web servida desde GitHub. En este sentido, se utilizó una funcionalidad de Github que además de funcionar como servidor de git, también serviría como servidor web.
 
 De acuerdo con lo solicitado en clases para el desarrollo de ésta actividad dirigida, se cumplió con los siguientes pasos:
-<<<<<<< HEAD
-=======
+
 
 ## Primera parte.
 
@@ -23,6 +22,7 @@ La siguiente parte de la asignación se realizó con el uso de la herramienta __
 4. En la siguiente fase se usó el comando `ls` para visualizar o enumerar los archivos dentro del directorio de trabajo.
 5. Como parte del proceso se introdujo `git config` + _user.name_ + _usuario_ de __github__ y _enter_, como parte de las tareas de configuración del __git.__ Lo mismo se hizo para con _user.email_, añadiendo la cuenta de correo electrónico usada para la creación de cuenta en __Github__ y _enter_.
 6. Después de estos pasos, hubo que acceder desde el navegador a [https://github.com/settings/tokens](https://github.com/settings/tokens) para generar un token, al cual se denominó __pd2__ configurado para expirar en 60 días. Una vez generado el nuevo token, se copió y se colocó entre comillas (" "), precedido por el comando `echo`, para crear el nuevo archivo.
+7. En la parte final de la actividad, se usó `nano` para ubicar archivo a modificar, se utilizó la tecla `control` + `X` para guardar los cambios, se confirmó el nombre del archivo y _enter_. Se añadió comentario sobre lo realizado con `git commit -m` y luego `git push` para actualizar y comprobar que los cambios se reflejen en el repositorio.
 
 
 Finalmente se actualizó el repositorio remoto desde el local y se comprobó que los cambios se hubiesen producido en remoto.
@@ -37,6 +37,4 @@ Para la escritura se tomaron en cuenta los mecanismos de redacción para __Markd
 Con `git status` me informaba que se debía actualizar la modificación del archivo _ad2.md_, lo cual hice con el uso de `git add` _ad2.md_ (nombre del archivo), posteriormente utilicé `git commit -m` para añadir comentarios sobre las últimas actualizaciones al escrito. Volví a utilizar `git status` para verificar que todo estuviese en orden antes de actualizar el repositorio con `git push` y comprobar que los cambios apareciesen en remoto.
 
 Fue el mismo procedimiento realizado cada vez que ingresaba para actualizar el texto del ejercicio.
- 
- 
->>>>>>> 1db251c540b6486ff0f172d4f7d8137126ac1812
+
